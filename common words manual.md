@@ -32,6 +32,12 @@
 *离职补偿*
 
     severance package    
+*保障和改进民生
+    
+    improve people's wellbeing and improve their lives
+*城乡社会救助体系*
+
+    urban and rural emergency aid system
 ___
 ## 爱国
 *爱国统一战线*
@@ -49,6 +55,24 @@ ___
 *赤贫*
     
     dire poverty
+*少年司法制度*
+    
+    juvenile justice system
+*悲催*
+    
+    a tear-inducing misery
+*大都市人口*
+    
+    metropolitan population
+*编内职工*
+    
+    permanent staff
+*编制人数*
+
+    staff size
+*海归*
+
+    overseas returnees
 ---
 ## 社会热点
 *白富美*
@@ -64,5 +88,30 @@ ___
 
     
     flash mob
+*留守儿童*
+    
+    left-behind children
+*
+    
+    kill time in a bar
+*
+    
+    license-plate lottery    
+*
 
+    tenant groups
+*
+    
+    men who are tall, rich, handsome, and very popular among females
+*
+    
+    short, poor and ugly-looking man
+
+    property hoarding
+    
+    identical treatment
+    
+    
+  
+  
   
