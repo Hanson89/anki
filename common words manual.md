@@ -38,6 +38,9 @@
 *城乡社会救助体系*
 
     urban and rural emergency aid system
+*副主任科员* 
+    
+    senior staff
 ___
 ## 爱国
 *爱国统一战线*
@@ -106,8 +109,10 @@ ___
 *
     
     short, poor and ugly-looking man
+*
 
     property hoarding
+*    
     
     identical treatment
     
