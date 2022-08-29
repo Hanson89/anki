@@ -14,6 +14,20 @@
 *普通医生*
 
     general practitioner
+*心理医生*
+
+    mental gygiene
+    
+    medical reimbursement
+    
+    emergency medical treatment
+    
+    materniy matron
+    
+    online clinic
+    
+    non-remunerated/voluntary blood donation
+    
 ---
 ## 教育领域
 *素质教育*
@@ -99,19 +113,16 @@ ___
     kill time in a bar
 *
     
-    license-plate lottery    
-*
+    license-plate lottery
+-   tenant groups
 
-    tenant groups
 *
     
     men who are tall, rich, handsome, and very popular among females
 *
     
     short, poor and ugly-looking man
-*
-
-    property hoarding
+-    property hoarding
 *    
     
     identical treatment
