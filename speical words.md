@@ -1,4 +1,4 @@
 # 中文学
-*Sinology*
+*Sinology*  
 or    
 *Chinese studies*
